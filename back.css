@@ -1,0 +1,17 @@
+.a{
+    height: 650px;
+    width: 400px;
+    
+    background-image:url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png")
+}
+.b{
+    background-color: #00000080;
+    border: 5px solid #48ee59;
+    font-family: Bree serif;
+    height: 350px;
+    width: 300px;
+    color: azure;
+    font-size: 50px;
+    text-align: left;
+    
+}
